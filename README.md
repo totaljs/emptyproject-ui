@@ -1,2 +1,18 @@
-# emptyproject-ui
-Total.js + UI components
+# Empty project: Total.js + UI components
+
+- [Total.js Documentation](https://docs.totaljs.com/total4/)
+- [UI components - documentation](https://docs.totaljs.com/components/)
+- [Download +200 UI components](https://componentator.com/)
+
+- download example
+- open terminal and execute:
+	- install Total.js framework `$ npm install` (only once)
+	- run application: `$ node index.js`
+	- open browser `http://127.0.0.1:8000`
+
+## Total.js Platform
+
+- [Live chat with contributors](https://platform.totaljs.com?app=messenger)
+- [Commercial support](https://www.totaljs.com/support/)
+- [Service-level agreement (SLA)](https://www.totaljs.com/support/)
+- [Join to Total.js Telegram channel](https://t.me/totaljs)
