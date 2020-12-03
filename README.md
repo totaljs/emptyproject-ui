@@ -4,6 +4,9 @@
 - [UI components - documentation](https://docs.totaljs.com/components/)
 - [Download +200 UI components](https://componentator.com/)
 
+__Install instructions__:
+
+- install [Node.js platform](https://nodejs.org) (only once)
 - download example
 - open terminal and execute:
 	- install Total.js framework `$ npm install` (only once)
